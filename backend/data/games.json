@@ -1,0 +1,9 @@
+{
+    "doom":        ["doom/1.jpg", "doom/2.jpg",  "doom/3.jpg"],
+    "habromania":          ["habromania/1.jpg", "habromania/2.jpg",  "habromania/3.jpg"],
+    "call-of-duty":       ["call-of-duty/1.jpg", "call-of-duty/2.jpg",  "call-of-duty/3.jpg"],
+    "minecraft":       ["minecraft/1.jpg", "minecraft/2.jpg",  "minecraft/3.jpg"],
+    "resident-evil":       ["resident-evil/1.jpg", "resident-evil/2.jpg",  "resident-evil/3.jpg"],
+    "faith":       ["faith/1.jpg", "faith/2.jpg",  "faith/3.jpg"],
+    "hello-kitty-island-adventure":     ["hello-kitty-island-adventure/1.jpg", "hello-kitty-island-adventure/2.jpg",  "hello-kitty-island-adventure/3.jpg"]
+}
